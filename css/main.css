@@ -1,0 +1,126 @@
+/*to have 1 comment in the css*/
+
+.html, .body {
+    margin: 0;
+    height: 100%;
+    padding: 0;
+}
+
+.body {
+    display: flex;
+    flex-direction: column;
+}
+
+.header-text-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.cookie-container {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    opacity: 0.5;
+    background: #FA0;
+    padding: 8px 24px;
+    z-index: 100;
+}
+
+.cookie-container-text {
+    color: #FFF;
+}
+
+.footer {
+    margin-top: auto;
+    width: 100%;
+    background: #acaefc;
+}
+
+.footer-text{
+    padding: 8px 12px;
+}
+
+@media only screen and (min-width: 481px) and (max-width: 1179px) {
+    .nav-list{
+        display: flex;
+        margin: 0;
+        padding: 12px 24px;
+    }
+
+    .nav-list-item{
+        display: block;
+        margin-right: 12px;
+    }
+}
+
+@media only screen and (min-width: 1180px) {
+    .nav-list{
+        display: flex;
+        margin: 0;
+        padding: 12px 24px;
+    }
+
+    .nav-list-item{
+        display: block;
+        margin-right: 12px;
+    }
+}
+
+@media only screen and (min-width: 481px) {
+    .header {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .nav-checkbox {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .header-logo {
+        display: none;
+    }
+
+    .header {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    #menuToggle input:checked ~ ul {
+        display: block;
+    }
+
+    .nav-list {
+        display: none;
+    }
+
+    .header-text-container {
+        width: 50%;
+    }
+
+    .nav {
+        width: 50%;
+    }
+
+    h1 {
+        font-size: 18px;
+    }
+
+    h2 {
+        font-size: 16px;
+    }
+
+    .nav-list {
+        margin: 0;
+        padding: 0;
+        position: absolute;
+        width: 50%;
+        height: 200px;
+    }
+
+
+}
