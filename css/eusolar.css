@@ -14,6 +14,10 @@
     .main-content-aside-product-1 {
         display: none;
     }
+
+    .product {
+        width: calc(100% / 2);
+    }
 }
 
 @media only screen and (min-width: 1180px) {

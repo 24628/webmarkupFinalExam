@@ -54,6 +54,36 @@
     justify-content: center;
 }
 
+.header-logo {
+    width: 200px;
+    margin: 0 auto;
+    height: auto;
+}
+
+.header-title, .header-payoff {
+    margin: 4px auto;
+}
+
+.product-section {
+    display: flex;
+    flex-direction: column;
+    padding: 8px 16px;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
+
+.product {
+    padding: 8px;
+}
+
+.product-footer {
+    margin-top: auto;
+}
+
 @media only screen and (min-width: 481px) and (max-width: 1179px) {
     .nav-list{
         display: flex;
@@ -78,7 +108,6 @@
 
 @media only screen and (min-width: 1180px) {
     .nav-list{
-        display: flex;
         margin: 0;
         padding: 12px 24px;
     }
@@ -106,6 +135,12 @@
 
     .nav-checkbox {
         display: none;
+    }
+
+    .nav-list {
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 }
 
@@ -145,11 +180,15 @@
     }
 
     .nav-list {
+        width: 100%;
+        left: 0;
+        top: 0;
         margin: 0;
-        padding: 0;
+        padding: 8px 24px;
         position: absolute;
-        width: 50%;
-        height: 200px;
+        /* top: 14px; */
+        height: 100px;
+        background-color: #f7f7f7;
     }
 
     .product {
@@ -158,6 +197,47 @@
     }
 
     .product-image, .product-section {
-        width: 100%;
+        width: calc(100% - 38px);
+    }
+
+    #menuToggle .span
+    {
+        display: block;
+        width: 33px;
+        height: 4px;
+        margin-bottom: 5px;
+        position: relative;
+
+        background: #cdcdcd;
+        border-radius: 3px;
+
+        z-index: 1;
+    }
+
+    #menuToggle input
+    {
+        top: 15px;
+        position: absolute;
+        right: 15px;
+        display: block;
+        width: 40px;
+        height: 32px;
+        cursor: pointer;
+        opacity: 0;
+        z-index: 2;
+        -webkit-touch-callout: none;
+    }
+
+    .hamburger {
+        top: 15px;
+        position: absolute;
+        right: 15px;
+    }
+
+    .nav-list-item {text-decoration: none;display: flex;justify-content: flex-start;}
+
+    .nav-list-item a {
+        text-decoration: none;
+        color: #0e0707;
     }
 }

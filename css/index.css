@@ -1,20 +1,30 @@
 @media only screen and (min-width: 481px) and (max-width: 1179px) {
 
-    .main-content :nth-child(1) {
+    .main-content-video {
         order: 2;
     }
 
-    .main-content :nth-child(2) {
-        order: 3;
+    .main-content-aside {
+        order: 1;
     }
 
-    .main-content :nth-child(3) {
-        order: 1;
+    .main-content-articles {
+        order: 3;
     }
 
     .main-content {
         display: flex;
         flex-direction: column;
+    }
+
+    .main-content-video {
+        width: 100%;
+        height: auto;
+    }
+
+    video {
+        width: 100%;
+        height: auto;
     }
 }
 
@@ -37,7 +47,7 @@
     .main-content-video {
         width: 100%;
         height: auto;
-        padding: 0 20%;
+        padding: 50px 20%;
     }
 
     video {
@@ -55,5 +65,15 @@
     .main-content {
         display: flex;
         flex-direction: column-reverse;
+    }
+
+    .main-content-video {
+        width: 100%;
+        height: auto;
+    }
+
+    video {
+        width: 100%;
+        height: auto;
     }
 }

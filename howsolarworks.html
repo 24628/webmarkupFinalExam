@@ -10,20 +10,32 @@
     <link rel="stylesheet" type="text/css" href="css/howsolarworks.css">
 </head>
 <body class="body">
-<header>
+<header class="header">
     <!--logo-->
-    <img src="" alt="logo">
-    <h1>InHolland solar energy</h1>
-    <h2>Make the world a better place</h2>
-</header>
+    <img class="header-logo" src="images/logo.jpg" alt="logo" title="logo">
+    <section class="header-text-container">
+        <h1 class="header-title">InHolland solar energy</h1>
+        <h2 class="header-payoff">Make the world a better place</h2>
+    </section>
 
-<nav>
-    <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="eusolar.html">Eu Solar</a></li>
-        <li><a href="contact.html">Contact</a></li>
-    </ul>
-</nav>
+    <nav role="navigation" class="nav">
+        <section id="menuToggle">
+            <input class="nav-checkbox" type="checkbox"/>
+            <section class="hamburger">
+                <span class="span"></span>
+                <span class="span"></span>
+                <span class="span"></span>
+            </section>
+
+            <ul class="nav-list" id="menu">
+                <li class="nav-list-item"><a href="index.html">Home</a></li>
+                <li class="nav-list-item"><a href="eusolar.html">Eu Solar</a></li>
+                <li class="nav-list-item"><a href="contact.html">Contact</a></li>
+            </ul>
+        </section>
+    </nav>
+
+</header>
 
 <main class="main-content">
     <section class="main-content-grid">
@@ -94,7 +106,7 @@
 
         <!--article 5-->
         <article class="main-content-grid-inventer">
-            <header>
+            <header class="product-header">
                 Inventer
             </header>
             <p>
@@ -131,7 +143,7 @@
         <!--article 1-->
         <article class="product">
             <section class="product-section">
-                <header>
+                <header class="product-header">
                     Victron SmartSolar MPPT 100-50 12V 24V charge controller
                 </header>
 
@@ -146,7 +158,7 @@
                     sulphated or otherwise damaged.
                 </p>
 
-                <footer>
+                <footer class="product-footer">
                     <a href="https://www.ikwilzonneenergie.nl/epages/61494231.sf/nl_NL/?ObjectPath=/Shops/61494231/Products/SCC110050210"
                        target="_blank">Order Product</a>
                 </footer>
@@ -163,7 +175,7 @@
         <!--article 2-->
         <article class="product">
             <section class="product-section">
-                <header>
+                <header class="product-header">
                     SMA SB3.6 Solar panels inverter 1 phase
                 </header>
 
@@ -184,7 +196,7 @@
                 </ul>
                 </p>
 
-                <footer>
+                <footer class="product-footer">
                     <a href="https://www.ikwilzonneenergie.nl/epages/61494231.sf/nl_NL/?ObjectPath=/Shops/61494231/Products/%22SMA+Sunny+Boy+SB3.6%22"
                        target="_blank">Order Product</a>
                 </footer>
@@ -200,7 +212,7 @@
         <!--article 3-->
         <article class="product aside-product-section-3">
             <section class="product-section">
-                <header>
+                <header class="product-header">
                     Victron Phoenix inverter 12V 1200W VE.Direct
                 </header>
 
@@ -210,7 +222,7 @@
                     batteries rated at 12V, 24V or 48V DC.
                 </p>
 
-                <footer>
+                <footer class="product-footer">
                     <a href="https://www.ikwilzonneenergie.nl/epages/61494231.sf/nl_NL/?ObjectPath=/Shops/61494231/Products/PIN122120200"
                        target="_blank">Order Product</a>
                 </footer>
