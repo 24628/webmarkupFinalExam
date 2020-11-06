@@ -4,6 +4,7 @@
     <list default="true" id="19546baf-fe9e-4bb7-bd8e-5f642e0d7698" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/howsolarworks.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/howsolarworks.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eusolar.html" beforeDir="false" afterPath="$PROJECT_DIR$/eusolar.html" afterDir="false" />
@@ -43,7 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604411874822</updated>
       <workItem from="1604411875836" duration="18142000" />
-      <workItem from="1604664370224" duration="1013000" />
+      <workItem from="1604664370224" duration="1491000" />
     </task>
     <servers />
   </component>
