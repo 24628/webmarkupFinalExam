@@ -6,8 +6,8 @@
         padding: 0 12px;
     }
 
-    .aside-product-section-3{
-        display: block;
+    .product {
+        width: calc(100% / 3);
     }
 
     .main-content-grid {
@@ -65,6 +65,10 @@
         justify-content: space-between;
         flex-direction: row;
         padding: 0 12px;
+    }
+
+    .product {
+        width: calc(100% / 2);
     }
 
     .aside-product-section-3{
