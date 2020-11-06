@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19546baf-fe9e-4bb7-bd8e-5f642e0d7698" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/howsolarworks.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/howsolarworks.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/contact.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eusolar.html" beforeDir="false" afterPath="$PROJECT_DIR$/eusolar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/howsolarworks.html" beforeDir="false" afterPath="$PROJECT_DIR$/howsolarworks.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../skystatsme/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../skystatsme/routes/web.php" afterDir="false" />
     </list>
@@ -45,7 +41,8 @@
       <option name="presentableId" value="Default" />
       <updated>1604411874822</updated>
       <workItem from="1604411875836" duration="18142000" />
-      <workItem from="1604664370224" duration="2222000" />
+      <workItem from="1604664370224" duration="2271000" />
+      <workItem from="1604666661427" duration="1541000" />
     </task>
     <servers />
   </component>

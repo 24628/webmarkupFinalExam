@@ -1,8 +1,3 @@
-.main-content-form {
-    display: flex;
-    flex-flow: wrap;
-}
-
 .main-content-form-section {
     display: flex;
     flex-direction: column;
@@ -10,64 +5,47 @@
     padding: 0 2%;
 }
 
-.main-content-form-section-name {
-    width: 46%;
-}
-
-.main-content-form-section-email {
-    width: 46%;
-}
-
-.main-content-form-section-message{
-    width: 100%;
-}
-
 .main-content-form-section-submit {
     display: flex;
     align-items: flex-end;
-    padding: 0 8px;
-    width: 100%;
 }
+
 .main-content-form-submit {
     width: 100px;
 }
 
+.main-content-form {
+    padding: 6px 24px;
+}
+
 
 @media only screen and (min-width: 481px) and (max-width: 1179px) {
-    .main-content {
+    .contact-container {
         display: flex;
-        flex-flow: wrap;
-    }
-
-    .main-content-information {
-        width: 100%;
+        flex-direction: row;
     }
 
     .main-content-form {
-        width: 50%;
+        width: calc(100% / 2);
     }
 
     .main-content-aside {
-        width: 50%;
+        width: calc(100% / 2);
     }
 }
 
 @media only screen and (min-width: 1180px) {
-    .main-content {
+    .contact-container {
         display: flex;
-        flex-flow: wrap;
-    }
-
-    .main-content-information {
-        width: 100%;
+        flex-direction: row;
     }
 
     .main-content-form {
-        width: 67%;
+        width: calc((100% / 3) * 2);
     }
 
     .main-content-aside {
-        width: 33%;
+        width: calc((100% / 3) * 1);
     }
 }
 
@@ -77,6 +55,11 @@
     }
 
     .main-content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .contact-container {
         display: flex;
         flex-direction: column;
     }
