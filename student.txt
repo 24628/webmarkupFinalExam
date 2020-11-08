@@ -1,4 +1,4 @@
 Student name: Merlijn Busch
 Student number: 660571
-Student class:
-Student github:
+Student class: HAINF1SA1
+Student github: https://github.com/24628/webmarkupFinalExam
