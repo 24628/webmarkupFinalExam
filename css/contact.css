@@ -18,6 +18,25 @@
     padding: 6px 24px;
 }
 
+.main-content-information {
+    padding: 8px 12px;
+}
+
+.main-content-information > header {
+    font-weight: 800;
+    font-size: 32px;
+    border-bottom: 1px solid #0e0707;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.main-content-information > p {
+    margin: 0 auto;
+    max-width: 450px;
+    padding: 12px 0 0 0;
+}
+
 
 @media only screen and (min-width: 481px) and (max-width: 1179px) {
     .contact-container {
