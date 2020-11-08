@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/eusolar.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/eusolar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/howsolarworks.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/howsolarworks.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eusolar.html" beforeDir="false" afterPath="$PROJECT_DIR$/eusolar.html" afterDir="false" />
@@ -46,7 +47,7 @@
       <workItem from="1604411875836" duration="18142000" />
       <workItem from="1604664370224" duration="2271000" />
       <workItem from="1604666661427" duration="6143000" />
-      <workItem from="1604673137718" duration="8764000" />
+      <workItem from="1604673137718" duration="10725000" />
     </task>
     <servers />
   </component>

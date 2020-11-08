@@ -1,3 +1,12 @@
+.main-content-grid > article {
+    padding: 8px 12px;
+}
+
+.main-content-grid > article > header {
+    font-size: 24px;
+    border-bottom: 1px solid #0e0707;
+}
+
 @media only screen and (min-width: 1180px) {
     .aside-product {
         display: flex;
