@@ -39,17 +39,17 @@ Excellent
  Uses input tag with attribute type and value email.
  Uses input tag with attribute type and value submit.
  Sufficient
- Is not using tag div.
- Uses link attribute with value "stylesheet" for the stylesheet.
- Uses location attribute with an URL value for the stylesheet.
- Uses section tag.
- Uses header tag.
- Uses article tag.
- Uses aside tag.
- Uses nav tag.
- Uses footer tag.
- Uses form tag.
- Uses em tag.
+ Is not using tag div. Done
+ Uses link attribute with value "stylesheet" for the stylesheet. Done
+ Uses location attribute with an URL value for the stylesheet. Done
+ Uses section tag. Done
+ Uses header tag. Done
+ Uses article tag. Done
+ Uses aside tag. Done
+ Uses nav tag. Done
+ Uses footer tag. Done
+ Uses form tag. Done
+ Uses em tag. Done
 Webmarkup - Assessment guide – V2.08
 18
 GROUP THREE [BASIC CSS]
