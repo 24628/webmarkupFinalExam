@@ -64,14 +64,14 @@ from Google fonts.
 default font for the body tag.
  Uses the property font-family with value Notable.
 Sufficient
- Design is Responsive.
- Uses absolute units in css (px).
- Uses at least 7 different color properties in hexadecimal.
- Uses at least one comment in CSS.
- Uses property letter-spacing.
- Uses property line-height.
- Uses property word-indent.
- Uses property word-spacing.
+ Design is Responsive. Done
+ Uses absolute units in css (px). Done
+ Uses at least 7 different color properties in hexadecimal. Done
+ Uses at least one comment in CSS. Done
+ Uses property letter-spacing. Done
+ Uses property line-height. Done
+ Uses property word-indent. Done
+ Uses property word-spacing. Done
 Webmarkup - Assessment guide – V2.08
 19
 GROUP FOUR [ADVANCED CSS]
