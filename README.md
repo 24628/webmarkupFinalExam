@@ -111,14 +111,14 @@ Excellent
 SVG" without warnings.
  HTML 5 is validated with https://validator.w3.org without warnings.
 Sufficient
- Is not using front-end libraries like bootstrap, w3.css etc.
- Is not using tag br.
- Is not using tag hr.
- Uses attribute charset utf-8.
- Uses author attribute value .
- Uses property z-index for a "cookies" message with value 9999.
- Uses tabs for nestled elements.
- Uses the property display to hide content for different devices.
+ Is not using front-end libraries like bootstrap, w3.css etc. Done
+ Is not using tag br. Done
+ Is not using tag hr. Done
+ Uses attribute charset utf-8. Done
+ Uses author attribute value . Done
+ Uses property z-index for a "cookies" message with value 9999. Done
+ Uses tabs for nestled elements. ???
+ Uses the property display to hide content for different devices. Done
  CSS is validated with http://jigsaw.w3.org/css-validator, with profile "CSS level 3 +
 SVG" without errors.
  HTML 5 is validated with https://validator.w3.org without errors.

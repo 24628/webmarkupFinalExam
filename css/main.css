@@ -25,7 +25,7 @@
     opacity: 0.5;
     background: #FFAA00;  /*#FFAA00 #ffffff #12080a #080707 #efacac #0e0707 #f7f7f7; Hexe decimal 7*/
     padding: 8px 24px;
-    z-index: 100;
+    z-index: 9999; /*Cookie z index*/
 }
 
 .cookie-container-text {
