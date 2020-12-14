@@ -1,6 +1,6 @@
 /*to have 1 comment in the css*/
 
-.html, .body {
+.html .body { /*select elements by space*/
     margin: 0;
     height: 100%;
     padding: 0;
@@ -68,7 +68,11 @@
     word-wrap: break-word;
     background-color: #ffffff; /*#ffffff #12080a #080707 #efacac #0e0707 #f7f7f7; Hexe decimal 6*/
     background-clip: border-box;
-    border: 1px solid rgba(0, 0, 0, .125);
+    /* border: 1px solid rgba(0, 0, 0, .125); */
+    border-color: rgba(0, 0, 0, .125);/*  Uses the property border-color.*/
+    border-style: solid; /* Uses the property border-style with value double.*/
+    border-width: 1px;/* Uses the property border-width. */
+
     border-radius: .25rem;
 }
 
@@ -159,8 +163,12 @@
         text-decoration: none;
     }
 
-    .nav-list-item > a:hover {
+    .nav-list-item > a:hover { /*Psuedo class mouse over*/
         color: #efacac; /*#efacac #0e0707 #f7f7f7; Hexe decimal 3*/
+    }
+
+    .nav-list-item > a:active { /*Psuedo class active link*/
+        color: #9e9be8; /*9e9be8 #efacac #0e0707 #f7f7f7; Hexe decimal 8*/
     }
 
     .header-title {
@@ -229,7 +237,7 @@
         flex-direction: column;
     }
 
-    .product-image, .product-section {
+    .product-image, .product-section { /*Select mutliple items by ,*/
         width: calc(100% - 38px);
     }
 

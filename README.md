@@ -86,14 +86,14 @@ color #CFF and odd lines #FFF from a table.
  Uses selecting elements by a + (plus).
  Uses selecting elements by a > (bigger sign).
 Sufficient
- Is not using property value !important.
- Uses pseudo-class mouse over link.
- Uses pseudo-class selected link.
- Uses selecting elements by , (comma).
- Uses selecting elements by a space.
- Uses the property border-color.
- Uses the property border-style with value double.
- Uses the property border-width.
+ Is not using property value !important. Done
+ Uses pseudo-class mouse over link. Done
+ Uses pseudo-class selected link. Done
+ Uses selecting elements by , (comma). Done
+ Uses selecting elements by a space. Done
+ Uses the property border-color. Done
+ Uses the property border-style with value double. Done
+ Uses the property border-width. Done
 Webmarkup - Assessment guide – V2.08
 20
 GROUP FIVE [SYMANTEC FUNDAMENTALS]
