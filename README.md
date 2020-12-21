@@ -28,16 +28,16 @@ Webmarkup - Assessment guide – V2.08
 GROUP TWO [ADVANCED HTML]
 Excellent
  All items from sufficient are passed.
- Uses type attribute with value "text/css" for the stylesheet.
- Uses favicon.
- Uses "css" folder (lowercase).
- Uses the right extension for stylesheets (lowercase).
- Uses strong tag.
- Uses 2 different formats for video (MP4 and OGG).
- Uses a label tag in the form.
- Uses legend tag in the form.
- Uses input tag with attribute type and value email.
- Uses input tag with attribute type and value submit.
+ Uses type attribute with value "text/css" for the stylesheet. Done
+ Uses favicon. Done
+ Uses "css" folder (lowercase). Done
+ Uses the right extension for stylesheets (lowercase). Done
+ Uses strong tag. Done
+ Uses 2 different formats for video (MP4 and OGG). Done
+ Uses a label tag in the form. Done
+ Uses legend tag in the form. Done
+ Uses input tag with attribute type and value email. Done
+ Uses input tag with attribute type and value submit. Done
  Sufficient
  Is not using tag div. Done
  Uses link attribute with value "stylesheet" for the stylesheet. Done
