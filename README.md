@@ -1,15 +1,15 @@
 Excellent
  All items from sufficient are passed.
- Is not using embedded style.
- Is not using inline style.
- Uses all entities right ©,®,™, &,",£,€ etc.
- Uses img folder for all images.
- Uses alt attributes for all images.
- Uses title attributes for all images.
- Uses figcaption element.
- Uses figure element.
- Uses table tag.
- Uses table head.
+ Is not using embedded style. Done
+ Is not using inline style. Done
+ Uses all entities right ©,®,™, &,",£,€ etc. Done
+ Uses img folder for all images. Done
+ Uses alt attributes for all images. Done
+ Uses title attributes for all images. Done
+ Uses figcaption element. Done
+ Uses figure element. Done
+ Uses table tag. Done
+ Uses table head. Done
 Sufficient
  Uses HTML5 doctype. Done
  Uses head tag. Done
